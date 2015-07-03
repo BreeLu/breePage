@@ -93,11 +93,6 @@
 			<artifactId>logback-classic</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>com.sina.wapcd</groupId>
-			<artifactId>wapcd-server-common</artifactId>
-			<version>1.6.10</version>
-		</dependency>
-		<dependency>
 			<groupId>commons-fileupload</groupId>
 			<artifactId>commons-fileupload</artifactId>
 			<version>1.2.2</version>
